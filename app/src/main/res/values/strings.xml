@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tv Series Netflix</string>
+    <string name="sinopsis">sinopsis</string>
+    <string name="detail">detail</string>
+    <string name="ok">OK</string>
+    <string name="perhatian">Perhatian</string>
+    <string name="loading">Loading...</string>
+    <string name="creator">Creator</string>
+    <string name="cast">Cast</string>
+    <string name="genre">Genre</string>
+    <string name="tv_series_fragment">TV Series Netflix</string>
+    <string name="tv_series_detail_fragment">Detail TV Series</string>
+    <string name="season">Season</string>
+</resources>
